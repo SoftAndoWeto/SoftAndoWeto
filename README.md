@@ -6,7 +6,7 @@
 
 ## LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/CodeOfMisanthrope)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SoftAndoWeto)
 
 ## 🛠 Skills:
 
