@@ -2,15 +2,16 @@
 
 ## Most used languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=11&bg_color=080808&text_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=11&bg_color=080808&text_color=ffffff&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=11&bg_color=080808&text_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-## LeetCode
+## 🧩 LeetCode
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/SoftAndoWeto)
+![Leetcode Stats](https://leetcard.jacoblin.cool/SoftAndoWeto?theme=dark&font=JetBrains%20Mono)
 
 ## 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,jest,nodejs,express,yarn,wasm,electron,tauri,yew,rust,golang,docker,gitlab,haskell&perline=10&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,yarn,wasm,electron,tauri,yew,rust,actix,golang,docker,gitlab,haskell&perline=10&theme=dark)](https://skillicons.dev)
 
 ## 📫 Contact me
 
