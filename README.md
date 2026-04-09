@@ -3,7 +3,7 @@
 ## Most used languages
 
 [//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=11&bg_color=080808&text_color=ffffff&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=11&bg_color=080808&text_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast)
+[![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SoftAndoWeto&hide_title=true&layout=compact&langs_count=12&bg_color=080808&text_color=ffffff)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 ## 🧩 LeetCode
 
