@@ -1,4 +1,19 @@
-# Frontend Engineer
+[//]: # (# Frontend Engineer)
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Angular+%7C+TypeScript+%7C+RxJS;Rust+%26+WebAssembly+Enthusiast" alt="Typing SVG" />
+</a>
+
+<br/>
+
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/ngHeaven)
+[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:madeforheaven@mail.ru)
+
+---
 
 ## Most used languages
 
@@ -13,7 +28,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,yarn,electron,tauri,wasm,rust,actix,yew,golang,python,docker,gitlab,haskell&perline=9&theme=dark)](https://skillicons.dev)
 
-## 📫 Contact me
+[//]: # (## 📫 Contact me)
 
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/ngHeaven)
-[![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:madeforheaven@mail.ru)
+[//]: # ()
+[//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram&#41;]&#40;https://t.me/ngHeaven&#41;)
+
+[//]: # ([![Email]&#40;https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&#41;]&#40;mailto:madeforheaven@mail.ru&#41;)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
+
+</div>
