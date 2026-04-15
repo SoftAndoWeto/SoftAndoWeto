@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7964c,100:1a1a2e&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Frontend+Engineer;Angular+%7C+TypeScript+%7C+RxJS;Rust+%26+WebAssembly+Enthusiast" alt="Typing SVG" />
@@ -35,6 +35,6 @@
 
 [//]: # ([![Email]&#40;https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&#41;]&#40;mailto:madeforheaven@mail.ru&#41;)
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d0d0d&height=80&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7964c,100:0d0d0d&height=80&section=footer" width="100%"/>
 
 </div>
