@@ -26,11 +26,12 @@
 
 ## 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,yarn,electron,tauri,wasm,rust,actix,yew,golang,python,docker,gitlab,haskell&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,yarn,electron,tauri,wasm,rust,actix,yew,golang,python,docker,gitlab,haskell,latex&perline=9&theme=dark)](https://skillicons.dev)
 
 [//]: # (## 📫 Contact me)
 
 [//]: # ()
+
 [//]: # ([![Telegram]&#40;https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram&#41;]&#40;https://t.me/ngHeaven&#41;)
 
 [//]: # ([![Email]&#40;https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail&#41;]&#40;mailto:madeforheaven@mail.ru&#41;)
