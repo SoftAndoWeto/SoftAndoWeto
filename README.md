@@ -26,7 +26,7 @@
 
 ## 🛠 Skills:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,yarn,electron,tauri,wasm,rust,actix,yew,golang,python,docker,gitlab,haskell,latex&perline=9&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,angular,rxjs,vue,nuxt,tailwind,webpack,rollupjs,vite,vitest,jest,nodejs,bun,express,nest,yarn,electron,tauri,wasm,rust,actix,yew,golang,python,cs,postgresql,docker,kubernetes,gitlab,haskell,latex&perline=9&theme=dark)](https://skillicons.dev)
 
 [//]: # (## 📫 Contact me)
 
