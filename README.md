@@ -10,8 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Software+Engineer;Angular+%7C+Rust+%7C+Tauri;WebAssembly+Enthusiast" alt="Typing SVG" />
 </a>
 
-<br></br>
-
 [![Telegram](https://img.shields.io/badge/-Telegram-black?style=flat-square&logo=telegram)](https://t.me/ngHeaven)
 [![Email](https://img.shields.io/badge/-Email-black?style=flat-square&logo=gmail)](mailto:madeforheaven@mail.ru)
 
