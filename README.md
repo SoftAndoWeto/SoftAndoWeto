@@ -5,7 +5,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:c7964c,100:a8940f&height=120&section=header&text=&animation=fadeIn" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Frontend+Engineer;Angular+%7C+TypeScript+%7C+RxJS;Rust+%26+WebAssembly+Enthusiast" alt="Typing SVG" />
+
+[//]: # (  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Frontend+Engineer;Angular+%7C+TypeScript+%7C+RxJS;Rust+%26+WebAssembly+Enthusiast" alt="Typing SVG" />)
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=Software+Engineer;Angular+%7C+Rust+%7C+Tauri;WebAssembly+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br></br>
